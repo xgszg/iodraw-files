@@ -210,7 +210,7 @@
           <mxGeometry x="317" y="567" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-42" value="审核是否&lt;div&gt;通过&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="550" width="80" height="80" as="geometry" />
+          <mxGeometry x="400" y="690" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
