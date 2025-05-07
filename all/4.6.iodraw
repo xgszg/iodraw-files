@@ -49,7 +49,7 @@
         <mxCell id="NjSh0pwMlnttLeZ2nc3q-13" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="514" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NjSh0pwMlnttLeZ2nc3q-14" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NjSh0pwMlnttLeZ2nc3q-14" value="活动发布者审核" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NjSh0pwMlnttLeZ2nc3q-16" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
