@@ -125,13 +125,14 @@
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-2" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="364" y="770" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuXvn9Kb8wVCJMaUW1DO-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="370" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuXvn9Kb8wVCJMaUW1DO-4" target="HuXvn9Kb8wVCJMaUW1DO-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-4" value="活动发布页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-13" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
