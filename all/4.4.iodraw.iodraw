@@ -128,8 +128,17 @@
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-4" value="活动发布页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuXvn9Kb8wVCJMaUW1DO-7" target="HuXvn9Kb8wVCJMaUW1DO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuXvn9Kb8wVCJMaUW1DO-7" target="HuXvn9Kb8wVCJMaUW1DO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="301" y="330" width="226" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuXvn9Kb8wVCJMaUW1DO-7" target="HuXvn9Kb8wVCJMaUW1DO-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
