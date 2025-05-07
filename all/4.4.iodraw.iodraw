@@ -221,8 +221,8 @@
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-46" value="通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="710" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-47" value="填写审核备注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
