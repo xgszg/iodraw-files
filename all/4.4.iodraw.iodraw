@@ -170,6 +170,9 @@
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-25" value="是否需要&lt;div&gt;补充内容&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="410" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-31" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
