@@ -34,8 +34,11 @@
         <mxCell id="NjSh0pwMlnttLeZ2nc3q-7" value="报名是否需要审核" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="410" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NjSh0pwMlnttLeZ2nc3q-9" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NjSh0pwMlnttLeZ2nc3q-9" value="报名成功" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="554.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NjSh0pwMlnttLeZ2nc3q-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="510" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
