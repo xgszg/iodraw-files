@@ -203,6 +203,9 @@
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-40" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="640" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-41" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
