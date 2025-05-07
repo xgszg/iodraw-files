@@ -65,8 +65,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="680" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="620" y="680" />
-              <mxPoint x="470" y="680" />
+              <mxPoint x="620" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -75,6 +74,9 @@
         </mxCell>
         <mxCell id="NjSh0pwMlnttLeZ2nc3q-21" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="555" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NjSh0pwMlnttLeZ2nc3q-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="620" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
