@@ -67,17 +67,6 @@
         <mxCell id="NjSh0pwMlnttLeZ2nc3q-21" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="555" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NjSh0pwMlnttLeZ2nc3q-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NjSh0pwMlnttLeZ2nc3q-17" target="NjSh0pwMlnttLeZ2nc3q-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="620" y="670" />
-              <mxPoint x="420" y="670" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NjSh0pwMlnttLeZ2nc3q-30" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="640" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
