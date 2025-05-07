@@ -22,8 +22,14 @@
         <mxCell id="NjSh0pwMlnttLeZ2nc3q-3" value="活动详情" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NjSh0pwMlnttLeZ2nc3q-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NjSh0pwMlnttLeZ2nc3q-5" target="NjSh0pwMlnttLeZ2nc3q-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NjSh0pwMlnttLeZ2nc3q-5" value="报名活动" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NjSh0pwMlnttLeZ2nc3q-7" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
