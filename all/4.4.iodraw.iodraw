@@ -156,7 +156,7 @@
           <mxGeometry x="220" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-21" value="是否为&lt;div&gt;普通用户&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="240" y="550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuXvn9Kb8wVCJMaUW1DO-23" target="HuXvn9Kb8wVCJMaUW1DO-25">
           <mxGeometry relative="1" as="geometry" />
