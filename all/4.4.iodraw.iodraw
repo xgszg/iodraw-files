@@ -108,6 +108,9 @@
         <mxCell id="JNmvn6AWWPRwbmGELUdt-42" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="10" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mmkmws-TV6FG0YEm7MX--0" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
