@@ -164,8 +164,8 @@
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-23" value="生成相关活动信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-25" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="550" width="80" height="80" as="geometry" />
+        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-25" value="是否需要&lt;div&gt;补充内容&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
