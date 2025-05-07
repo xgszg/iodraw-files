@@ -131,11 +131,17 @@
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuXvn9Kb8wVCJMaUW1DO-4" target="HuXvn9Kb8wVCJMaUW1DO-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuXvn9Kb8wVCJMaUW1DO-4" target="HuXvn9Kb8wVCJMaUW1DO-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-4" value="活动发布页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-13" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-13" value="传统活动发布" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-17" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
