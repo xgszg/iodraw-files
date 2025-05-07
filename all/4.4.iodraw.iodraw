@@ -164,8 +164,11 @@
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-23" value="生成相关活动信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HuXvn9Kb8wVCJMaUW1DO-25" target="HuXvn9Kb8wVCJMaUW1DO-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-25" value="是否需要&lt;div&gt;补充内容&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="520" width="80" height="80" as="geometry" />
+          <mxGeometry x="380" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
