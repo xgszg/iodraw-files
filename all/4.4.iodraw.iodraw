@@ -123,7 +123,7 @@
           <mxGeometry x="370" y="130" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-2" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="230" y="870" width="100" height="60" as="geometry" />
+          <mxGeometry x="230" y="820" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuXvn9Kb8wVCJMaUW1DO-4" target="HuXvn9Kb8wVCJMaUW1DO-13">
           <mxGeometry relative="1" as="geometry" />
@@ -192,7 +192,7 @@
           <mxGeometry x="380" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-35" value="发布成功" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-37" value="管理员审核" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="560" width="120" height="60" as="geometry" />
@@ -200,8 +200,8 @@
         <mxCell id="HuXvn9Kb8wVCJMaUW1DO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HuXvn9Kb8wVCJMaUW1DO-35" target="HuXvn9Kb8wVCJMaUW1DO-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-40" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="660" width="60" height="30" as="geometry" />
+        <mxCell id="HuXvn9Kb8wVCJMaUW1DO-40" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
