@@ -24,7 +24,7 @@
         <mxCell id="JNmvn6AWWPRwbmGELUdt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JNmvn6AWWPRwbmGELUdt-10" target="JNmvn6AWWPRwbmGELUdt-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JNmvn6AWWPRwbmGELUdt-10" value="注册页面" style="whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="JNmvn6AWWPRwbmGELUdt-10" value="注册页面" style="whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="204" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNmvn6AWWPRwbmGELUdt-12" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
