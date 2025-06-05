@@ -397,10 +397,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-11" value="初始化TTS引擎" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="285" width="120" height="60" as="geometry" />
+          <mxGeometry x="197.5" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VNQHEf1qrmlYtcOwHTb7-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="320" width="60" height="30" as="geometry" />
+        <mxCell id="VNQHEf1qrmlYtcOwHTb7-15" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
