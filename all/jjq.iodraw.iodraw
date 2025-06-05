@@ -844,7 +844,7 @@
           <mxGeometry x="360" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-6" value="图书订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="405" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-7" value="查看" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="155" width="120" height="80" as="geometry" />
@@ -856,7 +856,7 @@
           <mxGeometry x="396" y="245" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-12" value="购买" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="275" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="z4tkIYf0_ob2FMMpNy80-7" target="z4tkIYf0_ob2FMMpNy80-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -878,15 +878,15 @@
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="z4tkIYf0_ob2FMMpNy80-6" target="z4tkIYf0_ob2FMMpNy80-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="484" y="330" as="sourcePoint" />
-            <mxPoint x="570" y="330" as="targetPoint" />
+            <mxPoint x="484" y="325" as="sourcePoint" />
+            <mxPoint x="570" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-18" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-19" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="600" y="365" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-20" value="包含" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="395" width="120" height="80" as="geometry" />
@@ -953,6 +953,12 @@
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-37" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z4tkIYf0_ob2FMMpNy80-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="530" as="sourcePoint" />
+            <mxPoint x="620" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
