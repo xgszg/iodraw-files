@@ -185,11 +185,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PTJT4CdTHR_4hv155aVt-8" value="删除订单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g3mJ0yguBE-5DT4DIp_5-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="33mTgaR9YwmDzgvhZRhh-1">
+        <mxCell id="g3mJ0yguBE-5DT4DIp_5-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="33mTgaR9YwmDzgvhZRhh-1" target="g3mJ0yguBE-5DT4DIp_5-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="560" />
+              <mxPoint x="430" y="560" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="33mTgaR9YwmDzgvhZRhh-1" value="修改订单信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
