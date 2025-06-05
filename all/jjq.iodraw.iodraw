@@ -850,7 +850,7 @@
           <mxGeometry x="320" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-7" value="查看" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="374" y="120" width="80" height="80" as="geometry" />
+          <mxGeometry x="361" y="140" width="119" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
