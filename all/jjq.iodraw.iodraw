@@ -287,9 +287,13 @@
         <mxCell id="tACrNwxJUpQ-YzMFy8L4-8" value="删除" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tACrNwxJUpQ-YzMFy8L4-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tACrNwxJUpQ-YzMFy8L4-12">
+        <mxCell id="tACrNwxJUpQ-YzMFy8L4-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tACrNwxJUpQ-YzMFy8L4-12" target="tACrNwxJUpQ-YzMFy8L4-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="480" as="targetPoint" />
+            <mxPoint x="440" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="420" />
+              <mxPoint x="441" y="420" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tACrNwxJUpQ-YzMFy8L4-12" value="填写信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
