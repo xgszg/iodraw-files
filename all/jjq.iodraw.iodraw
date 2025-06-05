@@ -583,8 +583,8 @@
         <mxCell id="8IwyCQt7aR7DPuFFfM_s-11" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8IwyCQt7aR7DPuFFfM_s-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="8IwyCQt7aR7DPuFFfM_s-13" value="从收藏中删除" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
