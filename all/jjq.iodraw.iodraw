@@ -278,6 +278,9 @@
         <mxCell id="tACrNwxJUpQ-YzMFy8L4-4" value="添加" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tACrNwxJUpQ-YzMFy8L4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tACrNwxJUpQ-YzMFy8L4-6" target="tACrNwxJUpQ-YzMFy8L4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tACrNwxJUpQ-YzMFy8L4-6" value="修改" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -286,6 +289,9 @@
         </mxCell>
         <mxCell id="tACrNwxJUpQ-YzMFy8L4-12" value="填写信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tACrNwxJUpQ-YzMFy8L4-14" value="修改" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
