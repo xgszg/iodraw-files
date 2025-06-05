@@ -837,11 +837,14 @@
         <mxCell id="z4tkIYf0_ob2FMMpNy80-3" value="章节信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="z4tkIYf0_ob2FMMpNy80-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z4tkIYf0_ob2FMMpNy80-4" target="z4tkIYf0_ob2FMMpNy80-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-4" value="图书分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-5" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-6" value="图书订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="410" width="120" height="60" as="geometry" />
@@ -928,10 +931,10 @@
           <mxGeometry x="396" y="355" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-30" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="406" y="485" width="60" height="30" as="geometry" />
+          <mxGeometry x="396" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-31" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="640" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="620" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
