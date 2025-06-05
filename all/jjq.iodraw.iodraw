@@ -272,14 +272,20 @@
         <mxCell id="tACrNwxJUpQ-YzMFy8L4-2" value="书城管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tACrNwxJUpQ-YzMFy8L4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tACrNwxJUpQ-YzMFy8L4-4" target="tACrNwxJUpQ-YzMFy8L4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tACrNwxJUpQ-YzMFy8L4-4" value="添加" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tACrNwxJUpQ-YzMFy8L4-6" value="修改" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tACrNwxJUpQ-YzMFy8L4-8" value="书城管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tACrNwxJUpQ-YzMFy8L4-8" value="删除" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tACrNwxJUpQ-YzMFy8L4-12" value="添加" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
