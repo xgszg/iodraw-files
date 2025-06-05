@@ -847,7 +847,7 @@
           <mxGeometry x="310" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-6" value="图书订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z4tkIYf0_ob2FMMpNy80-7" target="z4tkIYf0_ob2FMMpNy80-2">
           <mxGeometry relative="1" as="geometry" />
