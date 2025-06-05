@@ -210,7 +210,7 @@
         </mxCell>
         <mxCell id="1wiBY6B758-Sonl_rylE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g3mJ0yguBE-5DT4DIp_5-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="150" as="targetPoint" />
+            <mxPoint x="200" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g3mJ0yguBE-5DT4DIp_5-7" value="是否继续操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
