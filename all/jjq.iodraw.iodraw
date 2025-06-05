@@ -414,8 +414,8 @@
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-20" value="从上次记录位置开始" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VNQHEf1qrmlYtcOwHTb7-22" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="VNQHEf1qrmlYtcOwHTb7-22" value="从头开始" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
