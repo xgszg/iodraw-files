@@ -206,10 +206,10 @@
           <mxGeometry x="370" y="550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g3mJ0yguBE-5DT4DIp_5-7" value="是否继续操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="710" width="120" height="80" as="geometry" />
+          <mxGeometry x="370" y="680" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3mJ0yguBE-5DT4DIp_5-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="660" width="60" height="30" as="geometry" />
+        <mxCell id="g3mJ0yguBE-5DT4DIp_5-9" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
