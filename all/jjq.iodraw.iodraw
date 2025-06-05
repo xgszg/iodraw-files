@@ -322,7 +322,11 @@
         </mxCell>
         <mxCell id="tACrNwxJUpQ-YzMFy8L4-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tACrNwxJUpQ-YzMFy8L4-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="490" as="targetPoint" />
+            <mxPoint x="760" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="490" />
+              <mxPoint x="630" y="491" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tACrNwxJUpQ-YzMFy8L4-21" value="是否提交操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
