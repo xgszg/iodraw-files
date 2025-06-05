@@ -179,8 +179,8 @@
         <mxCell id="g3mJ0yguBE-5DT4DIp_5-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PTJT4CdTHR_4hv155aVt-8" target="g3mJ0yguBE-5DT4DIp_5-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="480" />
-              <mxPoint x="430" y="480" />
+              <mxPoint x="580" y="560" />
+              <mxPoint x="430" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -191,7 +191,7 @@
           <mxGeometry x="240" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g3mJ0yguBE-5DT4DIp_5-1" value="是否提交操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="620" width="120" height="80" as="geometry" />
+          <mxGeometry x="370" y="600" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
