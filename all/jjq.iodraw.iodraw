@@ -101,8 +101,8 @@
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-27" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zSRmctJIp3y_OJ5xF7kr-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="zSRmctJIp3y_OJ5xF7kr-30" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="480" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
