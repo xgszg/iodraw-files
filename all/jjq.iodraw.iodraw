@@ -372,13 +372,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VNQHEf1qrmlYtcOwHTb7-4" target="VNQHEf1qrmlYtcOwHTb7-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-4" value="是否听书模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="220" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-8" value="是否拥有进度记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="430" width="125" height="80" as="geometry" />
+          <mxGeometry x="377.5" y="440" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-10" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="300" width="60" height="30" as="geometry" />
@@ -393,7 +397,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-11" value="初始化TTS引擎" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="285" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
