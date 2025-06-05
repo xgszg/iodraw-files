@@ -16,9 +16,6 @@
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-2" value="查询用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zSRmctJIp3y_OJ5xF7kr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zSRmctJIp3y_OJ5xF7kr-4" target="zSRmctJIp3y_OJ5xF7kr-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zSRmctJIp3y_OJ5xF7kr-4" target="zSRmctJIp3y_OJ5xF7kr-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -31,7 +28,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zSRmctJIp3y_OJ5xF7kr-4" target="zSRmctJIp3y_OJ5xF7kr-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="330" />
+              <mxPoint x="660" y="330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-4" value="显示用户列表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="240" width="120" height="60" as="geometry" />
