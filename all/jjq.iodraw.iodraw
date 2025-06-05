@@ -374,11 +374,12 @@
             <mxPoint x="202.5" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VNQHEf1qrmlYtcOwHTb7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VNQHEf1qrmlYtcOwHTb7-4">
+        <mxCell id="VNQHEf1qrmlYtcOwHTb7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VNQHEf1qrmlYtcOwHTb7-4" target="VNQHEf1qrmlYtcOwHTb7-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="330" as="targetPoint" />
             <Array as="points">
               <mxPoint x="280" y="260" />
+              <mxPoint x="280" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -392,7 +393,7 @@
           <mxGeometry x="420" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-11" value="初始化TTS引擎" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-15" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="230" width="60" height="30" as="geometry" />
