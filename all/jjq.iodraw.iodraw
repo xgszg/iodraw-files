@@ -824,7 +824,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Dl1-DVVkPxEhlxp0hM5D" name="4.16">
-    <mxGraphModel dx="1828" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1072" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -836,9 +836,6 @@
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-3" value="章节信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z4tkIYf0_ob2FMMpNy80-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z4tkIYf0_ob2FMMpNy80-4" target="z4tkIYf0_ob2FMMpNy80-31">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-4" value="图书分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="525" width="120" height="60" as="geometry" />
@@ -935,6 +932,12 @@
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-31" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z4tkIYf0_ob2FMMpNy80-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="530" as="sourcePoint" />
+            <mxPoint x="620" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
