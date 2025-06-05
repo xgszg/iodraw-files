@@ -475,9 +475,13 @@
         <mxCell id="BS272bWZVLtkEew1t81F-4" value="是否拥有阅读记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BS272bWZVLtkEew1t81F-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BS272bWZVLtkEew1t81F-6">
+        <mxCell id="BS272bWZVLtkEew1t81F-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BS272bWZVLtkEew1t81F-6" target="BS272bWZVLtkEew1t81F-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="410" />
+              <mxPoint x="440" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BS272bWZVLtkEew1t81F-6" value="获取上次阅读信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
