@@ -628,7 +628,12 @@
           <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GeLwg4HfIJzMZdsyx0io-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GeLwg4HfIJzMZdsyx0io-6" target="GeLwg4HfIJzMZdsyx0io-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="520" />
+              <mxPoint x="440" y="520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="GeLwg4HfIJzMZdsyx0io-6" value="查看留言" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
@@ -640,7 +645,7 @@
           <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GeLwg4HfIJzMZdsyx0io-12" value="浏览所有留言" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GeLwg4HfIJzMZdsyx0io-14" value="提交" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
