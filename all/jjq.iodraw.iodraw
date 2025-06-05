@@ -31,8 +31,8 @@
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-6" value="添加用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zSRmctJIp3y_OJ5xF7kr-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="zSRmctJIp3y_OJ5xF7kr-9" value="修改用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
