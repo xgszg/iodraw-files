@@ -377,8 +377,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VNQHEf1qrmlYtcOwHTb7-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VNQHEf1qrmlYtcOwHTb7-4" target="VNQHEf1qrmlYtcOwHTb7-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VNQHEf1qrmlYtcOwHTb7-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VNQHEf1qrmlYtcOwHTb7-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-4" value="是否听书模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="220" width="125" height="80" as="geometry" />
@@ -387,16 +389,16 @@
           <mxGeometry x="377.5" y="470" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-10" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VNQHEf1qrmlYtcOwHTb7-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VNQHEf1qrmlYtcOwHTb7-11" target="VNQHEf1qrmlYtcOwHTb7-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-11" value="初始化TTS引擎" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-15" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="310" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VNQHEf1qrmlYtcOwHTb7-17" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
