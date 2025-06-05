@@ -618,7 +618,7 @@
         <mxCell id="GeLwg4HfIJzMZdsyx0io-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GeLwg4HfIJzMZdsyx0io-2" target="GeLwg4HfIJzMZdsyx0io-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GeLwg4HfIJzMZdsyx0io-2" value="进入留言板" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GeLwg4HfIJzMZdsyx0io-2" value="留言板" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GeLwg4HfIJzMZdsyx0io-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GeLwg4HfIJzMZdsyx0io-4" target="GeLwg4HfIJzMZdsyx0io-8">
@@ -650,6 +650,10 @@
         <mxCell id="GeLwg4HfIJzMZdsyx0io-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GeLwg4HfIJzMZdsyx0io-14" target="GeLwg4HfIJzMZdsyx0io-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="520" />
+              <mxPoint x="440" y="520" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GeLwg4HfIJzMZdsyx0io-14" value="提交" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
