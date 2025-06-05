@@ -394,7 +394,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VNQHEf1qrmlYtcOwHTb7-8" target="VNQHEf1qrmlYtcOwHTb7-22">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-8" value="是否拥有进度记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="450" width="125" height="80" as="geometry" />
