@@ -794,9 +794,12 @@
         <mxCell id="PymaaWeaFk2t_salApwd-12" value="提示密码错误" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PymaaWeaFk2t_salApwd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PymaaWeaFk2t_salApwd-14">
+        <mxCell id="PymaaWeaFk2t_salApwd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PymaaWeaFk2t_salApwd-14" target="PymaaWeaFk2t_salApwd-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="150" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PymaaWeaFk2t_salApwd-14" value="提示账号错误" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
