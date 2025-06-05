@@ -475,7 +475,7 @@
         <mxCell id="BS272bWZVLtkEew1t81F-4" value="是否拥有阅读记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BS272bWZVLtkEew1t81F-6" value="获取上次阅读信息&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BS272bWZVLtkEew1t81F-6" value="获取上次阅读信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BS272bWZVLtkEew1t81F-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
