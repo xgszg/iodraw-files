@@ -19,11 +19,14 @@
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zSRmctJIp3y_OJ5xF7kr-4" target="zSRmctJIp3y_OJ5xF7kr-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zSRmctJIp3y_OJ5xF7kr-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zSRmctJIp3y_OJ5xF7kr-4" target="zSRmctJIp3y_OJ5xF7kr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-4" value="显示用户列表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
