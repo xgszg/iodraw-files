@@ -511,8 +511,8 @@
         <mxCell id="BS272bWZVLtkEew1t81F-12" value="是否听书模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BS272bWZVLtkEew1t81F-17" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="BS272bWZVLtkEew1t81F-17" value="开始播放" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
