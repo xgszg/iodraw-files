@@ -202,6 +202,15 @@
         <mxCell id="g3mJ0yguBE-5DT4DIp_5-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g3mJ0yguBE-5DT4DIp_5-1" target="g3mJ0yguBE-5DT4DIp_5-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1wiBY6B758-Sonl_rylE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g3mJ0yguBE-5DT4DIp_5-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="590" />
+              <mxPoint x="530" y="591" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="g3mJ0yguBE-5DT4DIp_5-1" value="是否提交操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="550" width="120" height="80" as="geometry" />
         </mxCell>
