@@ -466,8 +466,14 @@
         <mxCell id="BS272bWZVLtkEew1t81F-2" value="加载书籍信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BS272bWZVLtkEew1t81F-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BS272bWZVLtkEew1t81F-4" target="BS272bWZVLtkEew1t81F-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BS272bWZVLtkEew1t81F-4" value="是否拥有阅读记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BS272bWZVLtkEew1t81F-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
