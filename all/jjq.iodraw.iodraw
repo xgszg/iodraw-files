@@ -810,8 +810,8 @@
         <mxCell id="PymaaWeaFk2t_salApwd-14" value="提示账号错误" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="301" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PymaaWeaFk2t_salApwd-22" value="提示密码错误" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="431" width="120" height="60" as="geometry" />
+        <mxCell id="PymaaWeaFk2t_salApwd-22" value="登录界面" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
