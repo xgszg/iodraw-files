@@ -163,7 +163,7 @@
         <mxCell id="PTJT4CdTHR_4hv155aVt-6" value="进入修改界面" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PTJT4CdTHR_4hv155aVt-8" value="显示订单列表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PTJT4CdTHR_4hv155aVt-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
