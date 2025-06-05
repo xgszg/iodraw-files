@@ -323,8 +323,8 @@
         <mxCell id="tACrNwxJUpQ-YzMFy8L4-21" value="是否提交操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tACrNwxJUpQ-YzMFy8L4-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="430" width="60" height="30" as="geometry" />
+        <mxCell id="tACrNwxJUpQ-YzMFy8L4-28" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
