@@ -31,6 +31,9 @@
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-4" value="显示用户列表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zSRmctJIp3y_OJ5xF7kr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zSRmctJIp3y_OJ5xF7kr-6" target="zSRmctJIp3y_OJ5xF7kr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-6" value="添加用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -38,7 +41,10 @@
           <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-11" value="删除用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSRmctJIp3y_OJ5xF7kr-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
