@@ -562,8 +562,14 @@
         <mxCell id="8IwyCQt7aR7DPuFFfM_s-4" value="选择图书" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8IwyCQt7aR7DPuFFfM_s-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8IwyCQt7aR7DPuFFfM_s-6" target="8IwyCQt7aR7DPuFFfM_s-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8IwyCQt7aR7DPuFFfM_s-6" value="点击取消收藏" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IwyCQt7aR7DPuFFfM_s-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
