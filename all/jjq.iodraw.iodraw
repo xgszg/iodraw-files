@@ -487,6 +487,11 @@
         <mxCell id="BS272bWZVLtkEew1t81F-6" value="获取上次阅读信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BS272bWZVLtkEew1t81F-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS272bWZVLtkEew1t81F-8" target="BS272bWZVLtkEew1t81F-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BS272bWZVLtkEew1t81F-8" value="从头开始阅读" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
         </mxCell>
