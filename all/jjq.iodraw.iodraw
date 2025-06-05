@@ -828,9 +828,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z4tkIYf0_ob2FMMpNy80-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z4tkIYf0_ob2FMMpNy80-1" target="z4tkIYf0_ob2FMMpNy80-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
         </mxCell>
@@ -860,6 +857,12 @@
         </mxCell>
         <mxCell id="z4tkIYf0_ob2FMMpNy80-12" value="查看" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z4tkIYf0_ob2FMMpNy80-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="310" as="sourcePoint" />
+            <mxPoint x="480" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
