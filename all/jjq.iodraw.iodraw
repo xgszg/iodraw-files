@@ -352,7 +352,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0qWY2IYorqZ_0XYFeOyt" name="4.6">
-    <mxGraphModel dx="1554" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="888" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -378,8 +378,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="280" y="260" />
-              <mxPoint x="280" y="360" />
+              <mxPoint x="440" y="340" />
+              <mxPoint x="440" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -387,16 +387,16 @@
           <mxGeometry x="377.5" y="220" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-8" value="是否拥有进度记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="570" width="125" height="80" as="geometry" />
+          <mxGeometry x="377.5" y="470" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-10" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-11" value="初始化TTS引擎" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-15" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="317.5" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
