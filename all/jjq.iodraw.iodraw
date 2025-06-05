@@ -250,7 +250,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uhUpNNsuCCdlR627-WHQ" name="4.5">
-    <mxGraphModel dx="1295" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,9 +318,6 @@
           <mxGeometry x="390" y="570" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tACrNwxJUpQ-YzMFy8L4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tACrNwxJUpQ-YzMFy8L4-21" target="tACrNwxJUpQ-YzMFy8L4-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tACrNwxJUpQ-YzMFy8L4-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tACrNwxJUpQ-YzMFy8L4-21" target="tACrNwxJUpQ-YzMFy8L4-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tACrNwxJUpQ-YzMFy8L4-21" value="是否提交操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
