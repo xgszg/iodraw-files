@@ -831,8 +831,11 @@
         <mxCell id="z4tkIYf0_ob2FMMpNy80-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z4tkIYf0_ob2FMMpNy80-2" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z4tkIYf0_ob2FMMpNy80-2" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z4tkIYf0_ob2FMMpNy80-3" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
