@@ -764,8 +764,20 @@
         <mxCell id="PymaaWeaFk2t_salApwd-2" value="输入账号密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PymaaWeaFk2t_salApwd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PymaaWeaFk2t_salApwd-4" target="PymaaWeaFk2t_salApwd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PymaaWeaFk2t_salApwd-4" value="判断账号是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PymaaWeaFk2t_salApwd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PymaaWeaFk2t_salApwd-6" target="PymaaWeaFk2t_salApwd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PymaaWeaFk2t_salApwd-6" value="判断密码是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PymaaWeaFk2t_salApwd-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
