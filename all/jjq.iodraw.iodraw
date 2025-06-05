@@ -43,7 +43,7 @@
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-11" value="删除用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zSRmctJIp3y_OJ5xF7kr-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zSRmctJIp3y_OJ5xF7kr-13" value="填写用户信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
