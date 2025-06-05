@@ -568,11 +568,23 @@
         <mxCell id="8IwyCQt7aR7DPuFFfM_s-6" value="点击取消收藏" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8IwyCQt7aR7DPuFFfM_s-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8IwyCQt7aR7DPuFFfM_s-8" target="8IwyCQt7aR7DPuFFfM_s-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8IwyCQt7aR7DPuFFfM_s-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8IwyCQt7aR7DPuFFfM_s-8" target="8IwyCQt7aR7DPuFFfM_s-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8IwyCQt7aR7DPuFFfM_s-8" value="确认是否取消" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8IwyCQt7aR7DPuFFfM_s-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="170" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8IwyCQt7aR7DPuFFfM_s-11" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IwyCQt7aR7DPuFFfM_s-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
