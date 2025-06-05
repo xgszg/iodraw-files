@@ -43,6 +43,9 @@
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-9" value="修改用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zSRmctJIp3y_OJ5xF7kr-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zSRmctJIp3y_OJ5xF7kr-11" target="zSRmctJIp3y_OJ5xF7kr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-11" value="删除用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -51,6 +54,9 @@
         </mxCell>
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-15" value="编辑用户信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSRmctJIp3y_OJ5xF7kr-19" value="是否确认删除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="480" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
