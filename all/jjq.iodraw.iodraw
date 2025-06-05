@@ -621,11 +621,17 @@
         <mxCell id="GeLwg4HfIJzMZdsyx0io-2" value="进入留言板" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GeLwg4HfIJzMZdsyx0io-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GeLwg4HfIJzMZdsyx0io-4" target="GeLwg4HfIJzMZdsyx0io-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GeLwg4HfIJzMZdsyx0io-4" value="发布留言" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GeLwg4HfIJzMZdsyx0io-6" value="查看留言" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GeLwg4HfIJzMZdsyx0io-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
