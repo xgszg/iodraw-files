@@ -151,8 +151,14 @@
         <mxCell id="PTJT4CdTHR_4hv155aVt-2" value="查询订单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PTJT4CdTHR_4hv155aVt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PTJT4CdTHR_4hv155aVt-4" target="PTJT4CdTHR_4hv155aVt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PTJT4CdTHR_4hv155aVt-4" value="显示订单列表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PTJT4CdTHR_4hv155aVt-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
