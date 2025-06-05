@@ -709,7 +709,7 @@
         <mxCell id="nLXpQUpMTwTxbruQC7m3-8" value="账号密码是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nLXpQUpMTwTxbruQC7m3-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nLXpQUpMTwTxbruQC7m3-10" value="进入功能页面" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
