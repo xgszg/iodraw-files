@@ -393,6 +393,9 @@
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VNQHEf1qrmlYtcOwHTb7-8" target="VNQHEf1qrmlYtcOwHTb7-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VNQHEf1qrmlYtcOwHTb7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VNQHEf1qrmlYtcOwHTb7-8" target="VNQHEf1qrmlYtcOwHTb7-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-8" value="是否拥有进度记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="450" width="125" height="80" as="geometry" />
         </mxCell>
@@ -409,7 +412,10 @@
           <mxGeometry x="420" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-20" value="从上次记录位置开始" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VNQHEf1qrmlYtcOwHTb7-22" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
