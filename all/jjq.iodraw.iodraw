@@ -284,8 +284,8 @@
         <mxCell id="tACrNwxJUpQ-YzMFy8L4-8" value="删除" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tACrNwxJUpQ-YzMFy8L4-12" value="添加" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="tACrNwxJUpQ-YzMFy8L4-12" value="填写信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
