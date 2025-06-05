@@ -556,8 +556,14 @@
         <mxCell id="8IwyCQt7aR7DPuFFfM_s-2" value="显示收藏列表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8IwyCQt7aR7DPuFFfM_s-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8IwyCQt7aR7DPuFFfM_s-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8IwyCQt7aR7DPuFFfM_s-4" target="8IwyCQt7aR7DPuFFfM_s-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8IwyCQt7aR7DPuFFfM_s-4" value="选择图书" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IwyCQt7aR7DPuFFfM_s-6" value="点击取消收藏" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
