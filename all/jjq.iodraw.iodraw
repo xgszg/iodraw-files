@@ -378,12 +378,12 @@
           <mxGeometry x="377.5" y="220" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-8" value="是否拥有进度记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="350" width="125" height="80" as="geometry" />
+          <mxGeometry x="377.5" y="450" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-10" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VNQHEf1qrmlYtcOwHTb7-11" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VNQHEf1qrmlYtcOwHTb7-11" value="初始化TTS引擎" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
