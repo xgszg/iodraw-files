@@ -930,6 +930,9 @@
         <mxCell id="z4tkIYf0_ob2FMMpNy80-30" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="490" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="z4tkIYf0_ob2FMMpNy80-31" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
