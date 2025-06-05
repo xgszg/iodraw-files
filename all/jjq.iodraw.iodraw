@@ -368,11 +368,15 @@
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-2" value="打开电子书" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VNQHEf1qrmlYtcOwHTb7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VNQHEf1qrmlYtcOwHTb7-4" target="VNQHEf1qrmlYtcOwHTb7-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VNQHEf1qrmlYtcOwHTb7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VNQHEf1qrmlYtcOwHTb7-4" target="VNQHEf1qrmlYtcOwHTb7-11">
+        <mxCell id="VNQHEf1qrmlYtcOwHTb7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="320" as="sourcePoint" />
+            <mxPoint x="202.5" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNQHEf1qrmlYtcOwHTb7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VNQHEf1qrmlYtcOwHTb7-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="targetPoint" />
             <Array as="points">
               <mxPoint x="280" y="260" />
             </Array>
@@ -382,22 +386,13 @@
           <mxGeometry x="377.5" y="220" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-8" value="是否拥有进度记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="410" width="125" height="80" as="geometry" />
+          <mxGeometry x="380" y="570" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-10" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VNQHEf1qrmlYtcOwHTb7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VNQHEf1qrmlYtcOwHTb7-11" target="VNQHEf1qrmlYtcOwHTb7-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="450" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="370" />
-              <mxPoint x="440" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-11" value="初始化TTS引擎" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="382.5" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VNQHEf1qrmlYtcOwHTb7-15" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="230" width="60" height="30" as="geometry" />
