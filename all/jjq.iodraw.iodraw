@@ -51,7 +51,7 @@
         </mxCell>
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zSRmctJIp3y_OJ5xF7kr-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="620" as="targetPoint" />
+            <mxPoint x="230" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-13" value="填写用户信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
