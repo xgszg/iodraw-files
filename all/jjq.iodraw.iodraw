@@ -791,19 +791,20 @@
         <mxCell id="PymaaWeaFk2t_salApwd-10" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="659" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PymaaWeaFk2t_salApwd-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PymaaWeaFk2t_salApwd-12" target="PymaaWeaFk2t_salApwd-22">
+        <mxCell id="PymaaWeaFk2t_salApwd-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PymaaWeaFk2t_salApwd-12" target="PymaaWeaFk2t_salApwd-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="369" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="140" />
+              <mxPoint x="610" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PymaaWeaFk2t_salApwd-12" value="提示密码错误" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="449" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PymaaWeaFk2t_salApwd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PymaaWeaFk2t_salApwd-14" target="PymaaWeaFk2t_salApwd-22">
+        <mxCell id="PymaaWeaFk2t_salApwd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PymaaWeaFk2t_salApwd-14" target="PymaaWeaFk2t_salApwd-22">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="290" as="sourcePoint" />
             <mxPoint x="240" y="239" as="targetPoint" />
             <Array as="points">
               <mxPoint x="240" y="140" />
