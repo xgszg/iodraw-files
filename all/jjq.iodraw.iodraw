@@ -83,9 +83,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zSRmctJIp3y_OJ5xF7kr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zSRmctJIp3y_OJ5xF7kr-19">
+        <mxCell id="zSRmctJIp3y_OJ5xF7kr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSRmctJIp3y_OJ5xF7kr-19" target="zSRmctJIp3y_OJ5xF7kr-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="510" as="targetPoint" />
+            <mxPoint x="750" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="745" y="510" />
+              <mxPoint x="745" y="511" />
+              <mxPoint x="780" y="511" />
+              <mxPoint x="780" y="270" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-19" value="是否确认删除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
