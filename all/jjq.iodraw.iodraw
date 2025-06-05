@@ -49,9 +49,14 @@
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-11" value="删除用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zSRmctJIp3y_OJ5xF7kr-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zSRmctJIp3y_OJ5xF7kr-13">
+        <mxCell id="zSRmctJIp3y_OJ5xF7kr-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSRmctJIp3y_OJ5xF7kr-13" target="zSRmctJIp3y_OJ5xF7kr-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="660" as="targetPoint" />
+            <mxPoint x="380" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="600" />
+              <mxPoint x="331" y="600" />
+              <mxPoint x="331" y="640" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zSRmctJIp3y_OJ5xF7kr-13" value="填写用户信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
