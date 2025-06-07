@@ -130,10 +130,13 @@
         <mxCell id="hmUKBmAmP2aVq8Jq9dzg-19" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="364" y="563" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kIvFXa5I92vIdttiVSXM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kIvFXa5I92vIdttiVSXM-1">
+        <mxCell id="kIvFXa5I92vIdttiVSXM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kIvFXa5I92vIdttiVSXM-1" target="hmUKBmAmP2aVq8Jq9dzg-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="240.27586206896558" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kIvFXa5I92vIdttiVSXM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kIvFXa5I92vIdttiVSXM-1" target="hmUKBmAmP2aVq8Jq9dzg-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kIvFXa5I92vIdttiVSXM-1" value="用户选择操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="200" width="106" height="80" as="geometry" />
